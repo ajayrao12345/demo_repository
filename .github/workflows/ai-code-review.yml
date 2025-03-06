@@ -20,6 +20,6 @@ jobs:
 
       - name: Run GitHub Copilot
         run: |
-          echo "Running GitHub Copilot for AI assistance...last time "
+          echo "Running GitHub Copilot for AI assistance...check live  "
           # Add your custom commands here to utilize GitHub Copilot assistance
 
